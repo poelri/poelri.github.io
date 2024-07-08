@@ -20,7 +20,7 @@ cusdis:
 
 user:
   name: poelri
-  pic: /assets/img/cat1.jpg
+  pic: /assets/img/111.jpg
   picAlt: "An Exhibition of A Hunger Artist"
   job: Muss es sein? Es muss sein!
   # aboutme: true # comment this out if you don't need the 'about' page.
