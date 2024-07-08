@@ -22,7 +22,7 @@ user:
   name: poelri
   pic: /assets/img/111.jpg
   picAlt: "An Exhibition of A Hunger Artist"
-  job: Muss es sein? Es muss sein!
+  job: "직업주시면 감사합니다"
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
